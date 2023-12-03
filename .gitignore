@@ -1,0 +1,12 @@
+test/
+train/
+test1/
+train1/
+val1/
+
+*.h5
+
+*.csv
+
+
+*.zip
